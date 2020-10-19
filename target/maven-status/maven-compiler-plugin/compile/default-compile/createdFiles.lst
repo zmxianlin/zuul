@@ -1,0 +1,4 @@
+org\cjy\App.class
+org\cjy\fallbackProvider\ServiceFallbackProvider$1.class
+org\cjy\fallbackProvider\ServiceFallbackProvider.class
+org\cjy\filter\serviceFilter.class
